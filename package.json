@@ -1,0 +1,22 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "hangman constructor game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrcarter2017/constructorHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrcarter2017/constructorHangman/issues"
+  },
+  "homepage": "https://github.com/zrcarter2017/constructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
