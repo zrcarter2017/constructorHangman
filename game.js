@@ -49,4 +49,5 @@ class game {
 
 
 var firstGuess = new game();
+console.log(firstGuess.currentWord);
 firstGuess.askForLetter();
